@@ -33,7 +33,7 @@ git init
 git add -A
 git commit -m "first commit"
 git remote rm origin
-git remote add origin https://github.com/poojz/$reponame.git
+git remote add origin https://github.com/poojz/try.git
 git push -u origin master
 echo " done."
 
